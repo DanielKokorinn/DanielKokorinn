@@ -12,3 +12,6 @@
 ![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=Html&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=Css&logoColor=2674f2)
+
+### My Telegram
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/denialito)
