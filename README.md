@@ -1,6 +1,6 @@
 [![Header](https://github.com/Tronikos8/Tronikos8/blob/main/assets/image.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
 
-## I'm a Junior Tester. 
+## I'm a Beginner Tester. 
 
 ### Skills and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
