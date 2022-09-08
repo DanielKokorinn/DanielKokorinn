@@ -18,11 +18,11 @@
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Check_lists.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Test_cases.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Bug_reports.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://docs.google.com/spreadsheets/d/1sG7QratPByEUFkjyfq1ggEWxD9CBhHavt7Hbn0ZwRec/edit?usp=sharing)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://github.com/DanielKokorinn/Check_lists.git)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://github.com/DanielKokorinn/Test_cases.git)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://docs.google.com/spreadsheets/d/1u5MK4d5rRCznZkpRCYv-XFDcbGgFVhPbZ7FLKbvcPO4/edit?usp=sharing)
 [![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://github.com/DanielKokorinn/Bug_reports.git)
 
 ### My Telegram
