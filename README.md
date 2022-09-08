@@ -15,15 +15,15 @@
 
 ### Portfolio
 
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Check_lists.png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Test_cases.png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Bug_reports.png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)
-[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Check_lists.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Test_cases.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Bug_reports.png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Google_tables%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
+[![Header](https://github.com/DanielKokorinn/DanielKokorinn/blob/main/assets/Repository%20(1).png)](https://hh.ru/resume/8395e3fdff0afd61420039ed1f685841444535?disableBrowserCache=true&hhtmFrom=resume_list)
 
 ### My Telegram
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/denialito)
